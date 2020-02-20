@@ -30,6 +30,6 @@ public class DrinkCategoryActivity extends AppCompatActivity {
         };
 
         //assign the listener to the list view
-        listDrinks.setOnItemClickListener(itemClickListenerß);
+        listDrinks.setOnItemClickListener(itemClickListener);
     }
 }
